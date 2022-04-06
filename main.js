@@ -1,5 +1,3 @@
-import './style.css';
-
 const apiKey = 'a4721fdfb1be06a208d414060e03efb6';
 const form = document.querySelector('.top-banner form');
 const input = document.querySelector('.top-banner input');
